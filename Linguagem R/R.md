@@ -31,6 +31,7 @@ R é uma linguagem e ambiente para computação estatística e gráficos.
 | sum(...) | Retorna a soma dos valores |
 | mean(...) | Retorna a média dos valores |
 | median(vetor/....) | Retorna a mediana dos valores |
+| diff(vetor/...) | Retorna a diferencia dos valores consecultivos do vetor |
 
 >Vetores e listas:
 
